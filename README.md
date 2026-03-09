@@ -15,6 +15,8 @@ Aplicación de escritorio Java con interfaz Swing para explorar películas popul
 - 🔄 **Actualización Dinámica** - Datos en tiempo real desde TMDb API
 - 💾 **Sin Configuración** - La API key se solicita al inicio (no se guarda)
 
+
+
 ## 🚀 Instalación
 
 ### Ejecutables portables (recomendado)
